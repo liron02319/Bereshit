@@ -1,4 +1,3 @@
-# Bereshit
 
 <p align="center">
   <img src="https://israelnoticias.com/wp-content/uploads/2022/08/Bereshit-Luna.jpg" alt="Logo" width="450" height="300" align="right">
