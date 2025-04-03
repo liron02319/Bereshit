@@ -13,14 +13,22 @@
 ## Team Members
 Liron Cohen - 312324247
 
+## Table of Contents
+- [Background](#Background)
+- [Beresheet Crash Landing Event](#Beresheet-Crash-Landing-Event)
+- [Project Description](#project-description)
+- [Project Description](#project-description)
+- [About the simulation](#installation)
+- [Results](#modifying-aruco-tag-parameters)
+
+
+
 ## Background
 The Israeli spacecraft "Beresheet", launched by SpaceIL and Israel Aerospace Industries, was intended to be the first private spacecraft to land on the Moon.   
 On April 11, 2019, during the final landing phase, a technical malfunction occurred, leading to a loss of control and a crash on the lunar surface.
 
-## Table of Contents
-- [Project Description](#project-description)
-- [About the simulation](#installation)
-- [Results](#modifying-aruco-tag-parameters)
+![Israel spaceship](https://pic1.calcalist.co.il/PicServer3/2019/04/11/898977/3LM.jpg)
+
 
 ## Beresheet Crash Landing Event
 - **Star tracker malfunction on launch night**: A pair of cameras designed to determine the spacecraft's angle in space were apparently blinded by dust particles that landed on their shields as it separated from the launch vehicle. The team had to find creative solutions to get around this problem - including tilting the spacecraft on its side during maneuvers, and **using accelerometers** instead of the star trackers.
