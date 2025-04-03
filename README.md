@@ -6,8 +6,8 @@
 #  Bereshit Project
 
 **Welcome to Bereshit Project !**  
-  In This project we simulate a successful landing with Beresheet spacecraft.  
-  In addition, a report explaining the causes of the Beresheet crash is attached.  
+- In This project we simulate a successful landing with Beresheet spacecraft.  
+- In addition, a report explaining the causes of the Beresheet crash is attached.  
 
 
 ## Team Members
