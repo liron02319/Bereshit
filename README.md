@@ -45,7 +45,7 @@ While landing,the acceleration sensor shutdown (IMU2),so the crew had to make a 
 - **Activating IMU2 blocked data transmission from IMU1 because of some system logic**, Therefor the system did not receive any acceleration data for about a second
 Therefore he declared a navigation failure,
 In such a case he was programmed to reboot himself
-**NOTE**
+**NOTE-**
 The reboot lasted less than two seconds, but the computer returned to activity without the software extensions, which according to the landing command file were supposed to be loaded every minute for safety. As a result, the computer rebooted itself over and over again, and only after about five such reboots did the extensions finally load.
 
 - **The computer reboots caused the spacecraft's main engine to shut down**, which at this point was supposed to be running all the time and slowing down the landing. The computer was supposed to start the engine immediately, but here a malfunction occurred that the engineering team discovered before launch but did not have time to fix: to restart the engine, it must receive voltage from two sources, but following the reboot, only one of them worked – and the main engine did not start. The spacecraft continued its diagonal fall towards the moon, with only the small direction engines continuing to operate, and even maintaining its correct direction.
