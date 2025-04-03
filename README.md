@@ -5,11 +5,13 @@
 
 #  Bereshit Project
 
-Welcome to Bereshit Project ! This repository contains __
+**Welcome to Bereshit Project !**  
+  In This project we simulate a successful landing with Bereshit spacecraft.  
+  In addition, a report explaining the causes of the Bereshit crash is attached.  
 
 
 ## Team Members
-Liron Cohen - _____
+Liron Cohen - 312324247
 
 
 ## Table of Contents
@@ -20,7 +22,11 @@ Liron Cohen - _____
 
 
 
+
 ![Israel spaceship Error](https://d15djgxczo4v72.cloudfront.net/s3fs-public/davidson_images/IMG_20190411_233237_580.jpg)
+
+**Height: 149 meters, horizontal velocity: 946.7 meters per second, vertical velocity: 134.3 meters per second.**  
+*Latest data from Beresheet | Source: SpaceIL*
 
 ## Project Description
 
