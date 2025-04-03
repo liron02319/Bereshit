@@ -18,8 +18,8 @@ Liron Cohen - 312324247
 - [Beresheet Crash Landing Event](#Beresheet-Crash-Landing-Event)
 - [Project Description](#project-description)
 - [Project Description](#project-description)
-- [About the simulation](#installation)
-- [Results](#modifying-aruco-tag-parameters)
+- [About the simulation](#About-the-simulation)
+- [Results](#Results)
 
 
 
