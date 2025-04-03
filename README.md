@@ -3,11 +3,11 @@
   <img src="https://israelnoticias.com/wp-content/uploads/2022/08/Bereshit-Luna.jpg" alt="Logo" width="450" height="300" align="right">
 </p>
 
-#  Bereshit Project
+#  Beresheet Project
 
 **Welcome to Bereshit Project !**  
-  In This project we simulate a successful landing with Bereshit spacecraft.  
-  In addition, a report explaining the causes of the Bereshit crash is attached.  
+  In This project we simulate a successful landing with Beresheet spacecraft.  
+  In addition, a report explaining the causes of the Beresheet crash is attached.  
 
 
 ## Team Members
@@ -22,7 +22,7 @@ On April 11, 2019, during the final landing phase, a technical malfunction occur
 - [About the simulation](#installation)
 - [Results](#modifying-aruco-tag-parameters)
 
-## Besheshit Crash Landing Event
+## Beresheet Crash Landing Event
 **Star tracker malfunction on launch night**: A pair of cameras designed to determine the spacecraft's angle in space were apparently blinded by dust particles that landed on their shields as it separated from the launch vehicle. The team had to find creative solutions to get around this problem - including tilting the spacecraft on its side during maneuvers, and **using accelerometers** instead of the star trackers.
 
 **Unexpected spacecraft computer reboots**: Several days after launch, the spacecraft's computer rebooted unexpectedly, and the reboot problem continued to plague the spacecraft, apparently due to a malfunction in the electronics box that mediates between the computer and the spacecraft's systems, possibly due to exposure to radiation.
