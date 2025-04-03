@@ -13,6 +13,9 @@
 ## Team Members
 Liron Cohen - 312324247
 
+## Background
+The Israeli spacecraft "Beresheet", launched by SpaceIL and Israel Aerospace Industries, was intended to be the first private spacecraft to land on the Moon.   
+On April 11, 2019, during the final landing phase, a technical malfunction occurred, leading to a loss of control and a crash on the lunar surface.
 
 ## Table of Contents
 - [Project Description](#project-description)
