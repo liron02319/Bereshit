@@ -23,6 +23,19 @@ On April 11, 2019, during the final landing phase, a technical malfunction occur
 - [Results](#modifying-aruco-tag-parameters)
 
 
+## Causes of the spacecraft crash
+- IMU2 issue
+- Mission rushed (more additional testing required)
+- Low cost materials
+- Low experienced crew
+- System restarts
+- Data transfer block
+- "Critical control commands were not pre-programmed into the system but were instead loaded into RAM during the mission."
+
+  
+
+**For more information on the technical causes of the crash and the technical sequence of events leading to the crash :**  
+ www.github
 
 
 
