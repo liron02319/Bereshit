@@ -3,7 +3,7 @@
   <img src="https://israelnoticias.com/wp-content/uploads/2022/08/Bereshit-Luna.jpg" alt="Logo" width="450" height="300" align="right">
 </p>
 
-#  Beresheet Project
+#  Bereshit Project
 
 **Welcome to Bereshit Project !**  
   In This project we simulate a successful landing with Beresheet spacecraft.  
