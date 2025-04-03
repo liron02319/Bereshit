@@ -23,26 +23,26 @@ On April 11, 2019, during the final landing phase, a technical malfunction occur
 - [Results](#modifying-aruco-tag-parameters)
 
 ## Beresheet Crash Landing Event
-**Star tracker malfunction on launch night**: A pair of cameras designed to determine the spacecraft's angle in space were apparently blinded by dust particles that landed on their shields as it separated from the launch vehicle. The team had to find creative solutions to get around this problem - including tilting the spacecraft on its side during maneuvers, and **using accelerometers** instead of the star trackers.
+- **Star tracker malfunction on launch night**: A pair of cameras designed to determine the spacecraft's angle in space were apparently blinded by dust particles that landed on their shields as it separated from the launch vehicle. The team had to find creative solutions to get around this problem - including tilting the spacecraft on its side during maneuvers, and **using accelerometers** instead of the star trackers.
 
-**Unexpected spacecraft computer reboots**: Several days after launch, the spacecraft's computer rebooted unexpectedly, and the reboot problem continued to plague the spacecraft, apparently due to a malfunction in the electronics box that mediates between the computer and the spacecraft's systems, possibly due to exposure to radiation.
+- **Unexpected spacecraft computer reboots**: Several days after launch, the spacecraft's computer rebooted unexpectedly, and the reboot problem continued to plague the spacecraft, apparently due to a malfunction in the electronics box that mediates between the computer and the spacecraft's systems, possibly due to exposure to radiation.
 The low cost materials were damaged by the sun radiations which caused the spaceship system to restart
 
-**Because there was only one computer**, software extensions designed to overcome problems were not burned into permanent memory and were erased at each reboot. And they had to be loaded again in a command file.
+- **Because there was only one computer**, software extensions designed to overcome problems were not burned into permanent memory and were erased at each reboot. And they had to be loaded again in a command file.
 Because of the low budget the spaceship had no redundant system
 
-**The spacecraft had two such accelerometers called IMU (short for Inertial Measurement Unit)**
+- **The spacecraft had two such accelerometers called IMU (short for Inertial Measurement Unit)**
 While landing the acceleration sensor shutdown (IMU2) so the crew had to make a quick decision to rely on IMU1 or to restart IMU2, And they choose to restart
 
-**Activating IMU2 blocked data transmission from IMU1 because of some system logic**, Therefor the system did not receive any acceleration data for about a second
+- **Activating IMU2 blocked data transmission from IMU1 because of some system logic**, Therefor the system did not receive any acceleration data for about a second
 Therefore he declared a navigation failure,
 In such a case he was programmed to reboot himself
 **NOTE**
 The reboot lasted less than two seconds, but the computer returned to activity without the software extensions, which according to the landing command file were supposed to be loaded every minute for safety. As a result, the computer rebooted itself over and over again, and only after about five such reboots did the extensions finally load.
 
-**The computer reboots caused the spacecraft's main engine to shut down**, which at this point was supposed to be running all the time and slowing down the landing. The computer was supposed to start the engine immediately, but here a malfunction occurred that the engineering team discovered before launch but did not have time to fix: to restart the engine, it must receive voltage from two sources, but following the reboot, only one of them worked – and the main engine did not start. The spacecraft continued its diagonal fall towards the moon, with only the small direction engines continuing to operate, and even maintaining its correct direction.
+- **The computer reboots caused the spacecraft's main engine to shut down**, which at this point was supposed to be running all the time and slowing down the landing. The computer was supposed to start the engine immediately, but here a malfunction occurred that the engineering team discovered before launch but did not have time to fix: to restart the engine, it must receive voltage from two sources, but following the reboot, only one of them worked – and the main engine did not start. The spacecraft continued its diagonal fall towards the moon, with only the small direction engines continuing to operate, and even maintaining its correct direction.
 
-**Crash** - The spacecraft hit the lunar surface at a speed of more than 3,000 km/h, and probably crashed into pieces.
+- **Crash** - The spacecraft hit the lunar surface at a speed of more than 3,000 km/h, and probably crashed into pieces.
 
 
 **For more information on the technical causes of the crash and the technical sequence of events leading to the crash :**  
