@@ -40,7 +40,7 @@ The low cost materials were damaged by the sun radiations which caused the space
 Because of the low budget the spaceship had no redundant system
 
 - **The spacecraft had two such accelerometers called IMU (short for Inertial Measurement Unit)**
-While landing the acceleration sensor shutdown (IMU2) so the crew had to make a quick decision to rely on IMU1 or to restart IMU2, And they choose to restart
+While landing,the acceleration sensor shutdown (IMU2),so the crew had to make a quick decision to rely on IMU1 or to restart IMU2, And they choose to restart
 
 - **Activating IMU2 blocked data transmission from IMU1 because of some system logic**, Therefor the system did not receive any acceleration data for about a second
 Therefore he declared a navigation failure,
