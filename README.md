@@ -64,8 +64,8 @@ The reboot lasted less than two seconds, but the computer returned to activity w
 
 
 ## Causes of the spacecraft crash
-- IMU2 issue
 - Mission rushed (more additional testing required)
+- IMU2 issue
 - Low cost materials
 - Low experienced crew
 - System restarts
