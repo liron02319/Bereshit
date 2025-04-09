@@ -44,7 +44,7 @@ While landing,the acceleration sensor shutdown (IMU2),so the crew had to make a 
 
 - **Activating IMU2 blocked data transmission from IMU1 because of some system logic**, Therefor the system did not receive any acceleration data for about a second
 Therefore he declared a navigation failure,
-In such a case he was programmed to reboot himself
+In such a case he was programmed to reboot himself  
 **NOTE-**
 The reboot lasted less than two seconds, but the computer returned to activity without the software extensions, which according to the landing command file were supposed to be loaded every minute for safety. As a result, the computer rebooted itself over and over again, and only after about five such reboots did the extensions finally load.
 
