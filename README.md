@@ -69,7 +69,7 @@ The reboot lasted less than two seconds, but the computer returned to activity w
 - Low experienced crew
 - System restarts
 - Data transfer block
-- "Critical control commands were not pre-programmed into the system but were instead loaded into RAM during the mission."
+- Critical control commands were not pre-programmed into the system but were instead loaded into RAM during the mission
 
   
 
