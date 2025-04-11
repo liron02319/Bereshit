@@ -17,7 +17,6 @@ Liron Cohen - 312324247
 - [Background](#Background)
 - [Beresheet Crash Landing Event](#Beresheet-Crash-Landing-Event)
 - [Project Description](#project-description)
-- [Project Description](#project-description)
 - [About the simulation](#About-the-simulation)
 - [Results](#Results)
 
