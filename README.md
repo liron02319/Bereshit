@@ -81,17 +81,26 @@ The reboot lasted less than two seconds, but the computer returned to activity w
 
 ![‏‏CONTROLER](https://github.com/user-attachments/assets/c31baf72-ccdf-45e0-bd9e-f7dc9b61c7e2)
 
+## visual data and graphs
+To see the visual data and graphs.
+Go to the python folder
+
+- **CSV-TO-PLOT.py** - Displaying the data graphically
+- **simulate.py** - Running the simulation in a 3D experimental model
+
+- **NOTE** - You can see the The other data like ACC in another graph by changing in the field *CSV-TO-PLOT.py* one of the columns in the file to the data you want
 
 
 ## Results
-----
+**The visual data and graphs**
 
+- **Visual GRAPH Data:**  
 ![fuel](https://github.com/user-attachments/assets/0c103555-399e-4f0d-acee-7a34db604123)
 ![alt](https://github.com/user-attachments/assets/34c1f8a7-f9d6-43f8-9fcb-57140e37e37f)
 ![vs](https://github.com/user-attachments/assets/bc8beb4c-1b30-41b3-bf67-2c9cac3c1af2)
 ![hs](https://github.com/user-attachments/assets/7b8178d0-2106-4e33-bf66-9c5e99c0b586)
 
-
+- **Running the simulation in a 3D experimental model**
 
 https://github.com/user-attachments/assets/68626718-e6f0-44ac-ac38-e57f785d73ec
 
