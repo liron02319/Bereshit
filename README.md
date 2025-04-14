@@ -18,6 +18,7 @@ Liron Cohen - 312324247
 - [Beresheet Crash Landing Event](#Beresheet-Crash-Landing-Event)
 - [Causes of the spacecraft crash](#Causes-of-the-spacecraft-crash)
 - [About the simulation](#About-the-simulation)
+- [Visual Data and Graphs](visual-data-and-graphs)
 - [Results](#Results)
 
 
@@ -82,9 +83,10 @@ The reboot lasted less than two seconds, but the computer returned to activity w
 
 ![‏‏CONTROLER](https://github.com/user-attachments/assets/c31baf72-ccdf-45e0-bd9e-f7dc9b61c7e2)
 
-## visual data and graphs
+## Visual Data and Graphs
 To see the visual data and graphs.
 Go to the python folder
+using Python is a great way to read a CSV and plot data like altitude, speed, or fuel !
 
 - **CSV-TO-PLOT.py** - Displaying the data graphically
 - **simulate.py** - Running the simulation in a 3D experimental model
