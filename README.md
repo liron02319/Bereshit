@@ -71,8 +71,6 @@ The reboot lasted less than two seconds, but the computer returned to activity w
 - Data transfer block
 - Critical control commands were not pre-programmed into the system but were instead loaded into RAM during the mission
 
-  
-
 
 ## Project Description
 
@@ -80,10 +78,10 @@ This project provides tools to detect Welcome to Bereshit Project ! This reposit
 
 
 ## About the simulation
-- In This project we simulate a successful landing with Beresheet spacecraft.  
--Using PID controller - use to control the engine thrust and vehicle angle, It's done by maintaining a specific vertical/horizontal speed and angle.
--The starting point mimcs bereshit actual landing settings
--Landing safe
+- In This project we simulate a successful landing with Beresheet spacecraft.    
+- Using PID controller - use to control the engine thrust and vehicle angle, It's done by maintaining a specific vertical/horizontal speed and angle.  
+- The starting point mimcs bereshit actual landing settings
+- Landing safe
 
 ![‏‏CONTROLER](https://github.com/user-attachments/assets/c31baf72-ccdf-45e0-bd9e-f7dc9b61c7e2)
 
