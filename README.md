@@ -84,8 +84,8 @@ The reboot lasted less than two seconds, but the computer returned to activity w
 ![‏‏CONTROLER](https://github.com/user-attachments/assets/c31baf72-ccdf-45e0-bd9e-f7dc9b61c7e2)
 
 ## Visual Data and Graphs
-To see the visual data and graphs.
-Go to the python folder
+To see the visual data and graphs.  
+Go to the **python** folder  
 using Python is a great way to read a CSV and plot data like altitude, speed, or fuel !
 
 - **CSV-TO-PLOT.py** - Displaying the data graphically
