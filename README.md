@@ -18,7 +18,7 @@ Liron Cohen - 312324247
 - [Beresheet Crash Landing Event](#Beresheet-Crash-Landing-Event)
 - [Causes of the spacecraft crash](#Causes-of-the-spacecraft-crash)
 - [About the simulation](#About-the-simulation)
-- [Visual Data and Graphs](visual-data-and-graphs)
+- [Visual Data and Graphs](Visual-Data-and-Graphs)
 - [Results](#Results)
 
 
