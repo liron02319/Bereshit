@@ -72,10 +72,6 @@ The reboot lasted less than two seconds, but the computer returned to activity w
 - Critical control commands were not pre-programmed into the system but were instead loaded into RAM during the mission
 
 
-## Project Description
-
-This project provides tools to detect Welcome to Bereshit Project ! This repository contains __
-
 
 ## About the simulation
 - In This project we simulate a successful landing with Beresheet spacecraft.    
